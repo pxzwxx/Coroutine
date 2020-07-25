@@ -1,6 +1,8 @@
 # Coroutine
 C++多线程+协程构建异步并发BS架构服务器
 
+![image](https://github.com/pxzwxx/Coroutine/blob/master/Coroutinue/client.png)
+
 多线程/多进程设计的高并发服务器，代码逻辑复杂，调试困难，且可能会存在不同线程中拥有同一文件描述符，特别是使用C++开发的多线程程序，其内存管理不易。对比之下利用多线程+协程实现的高并发服务器代码逻辑简单，编写简单，易于维护，很容易实现业务异步，CPU利用率极高，并发效率不逊与多线程实现的异步服务器。
 
 项目主体工作如下：
@@ -54,7 +56,7 @@ C++多线程+协程构建异步并发BS架构服务器
    
       服务端
       
-      ![image](https://github.com/pxzwxx/Coroutinue/client.png)
+      ![image](https://github.com/pxzwxx/Coroutinue/server.png)
       
    
    
