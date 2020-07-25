@@ -49,6 +49,11 @@ C++多线程+协程构建异步并发BS架构服务器
       修改EasyTcpClient.sh中的ip，端口等信息,然后运行如下脚本
     
       sh EasyTcpClient.sh
+   
+   4.局域网内测试结果
+   
+    https://github.com/pxzwxx/Coroutine/blob/master/server.png
+  
   
 
  
