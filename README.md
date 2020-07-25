@@ -7,7 +7,7 @@ C++多线程+协程构建异步并发BS架构服务器
 
 服务端:
   
-  1.协程库使用NtyCo协程库，详见(https://github.com/wangbojing/NtyCo/tree/master/core)。
+  1使用NtyCo协程库，详见(https://github.com/wangbojing/NtyCo)。
   
   2.按照接入的客户端数量，以及机器配置决定子线程的数量，主线程预先创建多个线程，每个线程各自accept，同时拥有各自的协程调度器。每个子线程每accept一次创建一协程，每个协程内部异步处理客户端的recv, send, 业务处理，主线程负责统计打印开启的线程数，客户端接入的数量，服务端recv,处理的数据包的总数。
   
