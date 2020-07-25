@@ -44,7 +44,7 @@ C++多线程+协程构建异步并发BS架构服务器
     
       sh EasyTcpServer.sh
      
-     3.2 运行客户端代码:
+    3.2 运行客户端代码:
      
       修改EasyTcpClient.sh中的ip，端口等信息,然后运行如下脚本
     
@@ -52,6 +52,7 @@ C++多线程+协程构建异步并发BS架构服务器
    
    4.局域网内测试结果
    
+    ![server](https://github.com/pxzwxx/Coroutine/blob/master/Coroutinue/client.png)
    
   
   
