@@ -16,6 +16,26 @@ C++多线程+协程构建异步并发TCP服务器
 模拟客户端 : 模拟客户端主要的任务是测试服务端的性能。
 
   1.模拟客户端多个线程，每个线程内创建客户端，并连接服务器，支持以一定的频率向服务端发送消息，接受数据。主线程统计并打印统计信息。
+  
+快速运行:
+
+  1.测试环境:
+    Ubuntu版本16.04　　gcc version 7.5.0
+    
+  2.代码运行
+    
+    make server
+    
+    make clean
+    
+    修改EasyTcpServer.sh中的ip，端口等信息,然后运行如下脚本
+    
+    sh EasyTcpServer.sh
+    
+    修改EasyTcpClient.sh中的ip，端口等信息,然后运行如下脚本
+    
+    sh EasyTcpClient.sh
+  
 
  
   
