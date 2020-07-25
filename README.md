@@ -53,10 +53,13 @@ C++多线程+协程构建异步并发BS架构服务器
    
    4.局域网内测试结果
    
-      服务端
+   服务端开启6线程，接入客户端口6万个，每秒中调用26万次recv函数，处理了26万个数据包，并回应26万个数据包给6万个客户，每个数据包包含100bytes的数据
     
    ![image](https://github.com/pxzwxx/Coroutine/blob/master/Coroutinue/server.png)
-      
+   
+   客户端
+   
+   ![image](https://github.com/pxzwxx/Coroutine/blob/master/Coroutinue/client.png)
    
    
   
