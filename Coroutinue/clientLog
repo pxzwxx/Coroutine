@@ -1,0 +1,49 @@
+2020-7-25-14-34  [info]  : --------------------server is start--------------------
+2020-7-25-14-34  [info]  : thread<2>, clients<2000>, connect<372>, time<1.000942>, send<0> 
+2020-7-25-14-34  [info]  : thread<2>, clients<2000>, connect<696>, time<1.000703>, send<0> 
+2020-7-25-14-34  [info]  : thread<2>, clients<2000>, connect<895>, time<1.000125>, send<0> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<1140>, time<1.001047>, send<0> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<1349>, time<1.000401>, send<0> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<1509>, time<1.000866>, send<0> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<1777>, time<1.000645>, send<0> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000696>, send<85163> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000949>, send<119215> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.001024>, send<117863> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.001007>, send<120253> 
+2020-7-25-14-35  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.002824>, send<119085> 
+2020-7-25-14-48  [info]  : --------------------server is start--------------------
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<372>, time<1.000796>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<730>, time<1.000985>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<908>, time<1.000613>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<1173>, time<1.000464>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<1469>, time<1.000943>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<1686>, time<1.000455>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<1832>, time<1.000375>, send<0> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000941>, send<91091> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000666>, send<119876> 
+2020-7-25-14-48  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000049>, send<119954> 
+2020-7-25-15-2  [info]  : --------------------server is start--------------------
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<372>, time<1.000110>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<628>, time<1.000998>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<851>, time<1.000378>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<1140>, time<1.000165>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<1301>, time<1.000717>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<1431>, time<1.001030>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<1699>, time<1.000996>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<1849>, time<1.000817>, send<0> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000931>, send<88960> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000436>, send<116506> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000403>, send<119365> 
+2020-7-25-15-2  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000973>, send<117839> 
+2020-7-25-15-22  [info]  : --------------------server is start--------------------
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<372>, time<1.000048>, send<0> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<766>, time<1.000511>, send<0> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<1175>, time<1.000476>, send<0> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<1351>, time<1.000133>, send<0> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<1822>, time<1.000501>, send<0> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000620>, send<91723> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000552>, send<112707> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.001000>, send<116443> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000123>, send<119775> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000674>, send<119769> 
+2020-7-25-15-22  [info]  : thread<2>, clients<2000>, connect<2000>, time<1.000540>, send<116192> 
